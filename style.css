@@ -1,0 +1,43 @@
+.body{
+    margin: 0;
+    background-color: rgba(240, 248, 255, 0.216);
+    width:100vm;
+    height: 100vh;
+    
+
+}
+
+.wrap{
+
+    display:block;
+    margin:auto;
+    width:90%;
+    text-align: center;
+
+    
+    
+}
+
+#lista{
+    text-align:left;
+    border: 0.5vh solid;
+    width: 20vh;
+    padding: 2vm;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 5%;
+    border-bottom-right-radius: 20%;
+    box-shadow: 0px 0px 5px 5px black;
+}
+
+#rubrik{
+    font-size:1vm;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#picture{
+    width: 25vw;
+    height: 25vh;
+    border:solid 0.5vh black;
+    margin: 0;
+
+}
